@@ -684,7 +684,7 @@ class AlarmTableView extends Component {
                                         displaySelectAll={this.state.showCheckboxes}
                                         adjustForCheckbox={this.state.showCheckboxes}
                                         enableSelectAll={this.state.enableSelectAll}
-                                        style={{border: '0px solid', backgroundColor: '#45c5bb'}}
+                                        style={{border: '0px solid', backgroundColor: '#60605e'}}
                                     >
 
                                         <TableRow>
