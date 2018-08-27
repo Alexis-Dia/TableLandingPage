@@ -1,0 +1,8 @@
+export const EVENT_LOAD_ALARM = 'EVENT_LOAD_ALARM'
+export const EVENT_LOAD_ALARM_DEFAULT = 'EVENT_LOAD_ALARM_DEFAULT'
+
+
+export const UNAUTHORIZED = '_UNAUTHORIZED'
+export const UNDEFINED = '_UNDEFINED'
+export const SUCCESS = '_SUCCESS'
+export const FAILURE = '_FAILURE'

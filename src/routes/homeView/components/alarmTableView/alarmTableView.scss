@@ -1,0 +1,162 @@
+.main-table-style-1 {
+  padding: 1.5%;
+}
+
+.drop-down-menu-style-1 {
+  display: grid;
+  grid-template-rows: 20px 40px;
+}
+
+.drop-down-menu-header-style-1 {
+  padding-right: 25px;
+}
+
+.main-header-style-1 {
+  padding-top: 1.5%;
+  padding-bottom: 1%;
+  padding-left: 1.1%;
+}
+
+.search-client-text-field-style-1 {
+ width: 100%;
+}
+
+.footer-pagination-main-style-1 {
+  display: grid;
+  grid-template-columns: minmax(200px, 450px) 1fr 120px 200px;
+  grid-gap: 20px;
+}
+
+.pagination-main-style-1 {
+  display: grid;
+  grid-template-columns: minmax(70px, 100px) 1fr minmax(200px, 250px) 1fr minmax(70px, 100px);
+}
+
+.pagination-main-style-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
+.current-page-main-style-1 {
+  padding-top: 15px;
+}
+
+.double-checkbox-main-style-1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.braclet-id-header-main-style-1 {
+  display: grid;
+  grid-template-columns: 1fr 5px 53px 1px;
+}
+
+.braclet-id-text-main-style-1 {
+  align-items: center;
+  display: grid;
+  grid-gap: 5px;
+  grid-template-columns: repeat(auto-fill, minmax(45px, 50px));
+}
+
+.client-name-header-main-style-1 {
+  display: grid;
+  grid-template-columns: 1fr 5px 53px 1px;
+}
+
+.client-name-text-main-style-1 {
+  align-items: center;
+  display: grid;
+  grid-gap: 5px;
+  grid-template-columns: repeat(auto-fill, minmax(40px, 45px));
+}
+
+.hour-and-date-header-main-style-1 {
+  display: grid;
+  grid-template-columns: 1fr 5px 53px 1px;
+}
+
+.hour-and-date-text-main-style-1 {
+  align-items: center;
+  display: grid;
+  grid-gap: 5px;
+  grid-template-columns: repeat(auto-fill, minmax(40px, 50px));
+}
+
+.alarm-type-header-main-style-1 {
+  display: grid;
+  grid-template-columns: 1fr 5px 50px 1px;
+}
+
+.alarm-type-text-main-style-1 {
+  align-items: center;
+  display: grid;
+  grid-gap: 5px;
+  grid-template-columns: repeat(auto-fill, minmax(40px, 45px));
+}
+
+.gps-battery-header-main-style-1 {
+  display: grid;
+  grid-template-columns: 1fr 5px 50px 1px;
+}
+
+.gps-battery-text-main-style-1 {
+  align-items: center;
+  display: grid;
+  grid-gap: 5px;
+  grid-template-columns: repeat(auto-fill, minmax(35px, 40px));
+}
+
+.speed-header-main-style-1 {
+  display: grid;
+  grid-template-columns: 1fr 5px 48px 1px;
+}
+
+.speed-text-main-style-1 {
+  align-items: center;
+  display: grid;
+  grid-gap: 5px;
+  grid-template-columns: repeat(auto-fill, minmax(40px, 50px));
+}
+
+.g-sensor-header-main-style-1 {
+  display: grid;
+  grid-template-columns: 1fr 5px 0px 0px;
+}
+
+.g-sensor-text-main-style-1 {
+  display: grid;
+  grid-gap: 5px;
+  grid-template-columns: repeat(auto-fill, minmax(15px, 1fr));
+}
+
+.resolve-alarm-header-main-style-1 {
+  display: grid;
+  grid-template-columns: 1fr 5px 27px 1px;
+}
+
+.resolve-alarm-text-main-style-1 {
+  align-items: center;
+  display: grid;
+  grid-gap: 5px;
+  grid-template-columns: repeat(auto-fill, minmax(55px, 60px));
+}
+
+.resolve-alarm-box-main-style-1 {
+}
+
+.haur-and-date-main-style1 {
+  display: grid;
+  grid-gap: 23px;
+  grid-template-columns: 0px 30px 180px 140px;
+}
+
+.haur-and-date-main-style0 {
+  display: grid;
+  grid-gap: 10px;
+}
+
+.modal-content  {
+  -webkit-border-radius: 0px !important;
+  -moz-border-radius: 0px !important;
+  //border-radius: 0px !important;
+}

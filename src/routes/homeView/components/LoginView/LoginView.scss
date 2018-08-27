@@ -1,0 +1,11 @@
+.log-in-style-1 {
+  padding: 25px;
+  display: grid;
+  grid-template-columns: 1fr minmax(200px, 400px) 1fr;
+  grid-gap: 50px;
+}
+
+.raised-button-main-1 {
+  display: grid;
+  grid-template-columns: 1fr 0.75fr 1fr;
+}

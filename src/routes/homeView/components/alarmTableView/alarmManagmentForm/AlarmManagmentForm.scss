@@ -1,0 +1,34 @@
+.alarm-managment-main-style-1 {
+  margin: 20px;
+}
+
+.alarm-managment-group-buttons-resolve-style-1 {
+  display: grid;
+  grid-template-columns: 7fr 1fr 1fr;
+  grid-gap: 15px;
+}
+
+.alarm-managment-group-buttons-call-style-1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 7fr;
+  grid-gap: 15px;
+}
+
+.alarm-managment-group-buttons-call-style-2{
+  display: grid;
+  grid-template-columns: 1fr 7fr 1fr;
+  grid-gap: 15px;
+}
+
+.alarm-managment-group-buttons-call-style-3{
+  padding-top: 15px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 4fr;
+  grid-gap: 25px;
+}
+
+.modal-content  {
+  -webkit-border-radius: 0px !important;
+  -moz-border-radius: 0px !important;
+  //border-radius: 0px !important;
+}

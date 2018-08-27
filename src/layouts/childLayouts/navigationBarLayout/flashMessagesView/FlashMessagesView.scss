@@ -1,0 +1,14 @@
+.flash-message-main-style {
+  position: absolute;
+  z-index: 10;
+  width: 100%;
+}
+
+.flash-message-main-style-2 {
+  padding: 20px;
+  display: grid;
+  //grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: 1fr 1fr minmax(100px, 350px);
+  width: 100%;
+  grid-gap: 20px;
+}
